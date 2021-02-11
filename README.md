@@ -15,7 +15,7 @@ This project is from Udemy: The Complete JavaScript Course 2021: From Zero to Ex
 
 ---
 
-## What I've learned with this project
+## What I've learned in this project
 
 In this project, I've learned how to use refactoring to avoid repeat myself,
 structure an algorithm is something I used in the project to understand the game workflow, which is perfect to take big problems and break them down into small solutions.
