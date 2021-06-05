@@ -1,7 +1,7 @@
 # Rool the dice
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/mcvhbcq4zu/animated_fE0gZ-v2Y.gif">
+    <img src="https://ik.imagekit.io/mcvhbcq4zu/animated_fE0gZ-v2Y.gif" >
     
 </h1>
 
