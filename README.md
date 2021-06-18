@@ -5,14 +5,15 @@
     
 </h1>
 
-## Rules
+## :key:  Rules
 
 The first player that reaches 100 points wins, if the dice is equal to 1, then the player loses his turn and his current points.
 
-## About
+## :mag: About
 
 This project is from Udemy: The Complete JavaScript Course 2021: From Zero to Expert! in this I was challenge to write this code on my own, using pure javascript, this is the second project of this course, we used everything we learned so far, to solidify this knowledge
  course --> https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648783?start=1215
+ 
 ---
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
@@ -23,7 +24,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 <br>
 
-## Starting the application
+### 🎲 Starting the application
 
 1. Open the `index.html` file in the browser to view the pages created.
 
@@ -34,7 +35,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="70" height="70"/>
 </p>
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 Created by **jonas** <br>
 Developed by **Victor Lira**
