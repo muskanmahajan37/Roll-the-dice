@@ -5,9 +5,9 @@
     
 </h1>
 
-## :key: Importat 
+# Important
 
-### take a look --> https://victorlira-dev.github.io/Roll-the-dice/
+:key: Take a look --> https://victorlira-dev.github.io/Roll-the-dice/
 
 Rules
 
