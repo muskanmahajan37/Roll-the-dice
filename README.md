@@ -5,7 +5,11 @@
     
 </h1>
 
-## :key:  Rules
+## :key: Importat 
+
+### take a look --> https://victorlira-dev.github.io/Roll-the-dice/
+
+Rules
 
 The first player that reaches 100 points wins, if the dice is equal to 1, then the player loses his turn and his current points.
 
