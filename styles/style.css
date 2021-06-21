@@ -99,7 +99,7 @@ main {
   font-size: 3.5rem;
 }
 
-/* ABSOLUTE POSITIONED ELEMENTS */
+/* absolute POSITIONED ELEMENTS */
 .btn {
   position: absolute;
   left: 50%;
